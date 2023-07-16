@@ -12,8 +12,8 @@ export default function Catalog(){
     },[])
    
     return(
-        <>
-     <ProductList products={products}></ProductList>\
+     <>
+     <ProductList products={products}></ProductList>
      </>
     )
 }
